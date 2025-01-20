@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elysa-B
+- 👋 Hi, I’m @Elysa
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on anything to help me gain experience.
